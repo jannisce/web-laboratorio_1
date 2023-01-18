@@ -28,3 +28,11 @@ Deben asegurarse que la vaca sea paranóica
 ye shall be as gods
 
   -.-- .  ... .... .- .-.. .-..  -... .  .- ...  --. --- -.. ...
+
+(10 puntos) En star wars (ascii) ¿qué caracter se usa para formar el pelo de Leia?
+
+                            ,===                                              
+                            (@o o@                                             
+                           / \_-/ 
+                           
+                          
