@@ -2,6 +2,10 @@
  
 (50 puntos) En zork, ¿qué hay al subir las gradas dentro de la casa? 
 
-There is a square brick here which feels like clay.
-A large coil of rope is lying in the corner.
-On a table is a nasty-looking knife.
+  There is a square brick here which feels like clay.
+  A large coil of rope is lying in the corner.
+  On a table is a nasty-looking knife.
+
+(20 puntos) ¿Cuál es el output de éste programa de Brainf*ck
+'''++++++++++[>+++++++>++++++++++>+++>+<<<<-]>++.>+.+++++++..+++.>++.<<+++++++++++++++.>.+++.------.--------.>+.>.'''
+  Hello world
