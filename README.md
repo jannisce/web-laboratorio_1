@@ -8,4 +8,17 @@
 
 (20 puntos) ¿Cuál es el output de éste programa de Brainf*ck
 '''++++++++++[>+++++++>++++++++++>+++>+<<<<-]>++.>+.+++++++..+++.>++.<<+++++++++++++++.>.+++.------.--------.>+.>.'''
-  Hello world
+ 
+   Hello world!
+  
+(10 puntos) ¿Cómo pide auxilio una vaca paranoica?
+Deben asegurarse que la vaca sea paranóica
+
+   ______
+  < help >
+   ------
+          \   ^__^
+           \  (@@)\_______
+              (__)\       )\/\
+                  ||----w |
+                  ||     ||
