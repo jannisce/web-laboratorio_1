@@ -22,3 +22,9 @@ Deben asegurarse que la vaca sea paranóica
               (__)\       )\/\
                   ||----w |
                   ||     ||
+
+
+(10 puntos) Traduzcan la siguiente frase a clave morse:
+ye shall be as gods
+
+  -.-- .  ... .... .- .-.. .-..  -... .  .- ...  --. --- -.. ...
